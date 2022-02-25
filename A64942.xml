@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the great success the King of Portugal's army had upon the Spaniards, the 29th of May (Engl. stile) 1663</title>
+            <title>Relacion de la famosa ... vitoria de exercito de el Rey de Portugal ... alanço del exercito del Rey de Castilla ... en la provincia de Alem-Tejo en 8 de Junio de 1663. English</title>
+            <author>Vila Flor, Sancho Manuel de Vilhena, conde de, ca. 1607-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64942</idno>
+            <idno type="STC">Wing V389</idno>
+            <idno type="STC">ESTC R22231</idno>
+            <idno type="EEBO-CITATION">12619925</idno>
+            <idno type="OCLC">ocm 12619925</idno>
+            <idno type="VID">64495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64495)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 969:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the great success the King of Portugal's army had upon the Spaniards, the 29th of May (Engl. stile) 1663</title>
+                  <title>Relacion de la famosa ... vitoria de exercito de el Rey de Portugal ... alanço del exercito del Rey de Castilla ... en la provincia de Alem-Tejo en 8 de Junio de 1663. English</title>
+                  <author>Vila Flor, Sancho Manuel de Vilhena, conde de, ca. 1607-1677.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Alice Warren, for William Garrett,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Attributed to Villa Flor. cf. NUC Pre-1956.</note>
+                  <note>Recounts Ville Flor's victory at Ameixial, near Estremox in 1663.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portugal --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64495:1"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:64495:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <p>A RELATION OF THE Great Succeſs THE KING OF <hi>PORTUGAL'S</hi> Army had upon the <hi>Spaniards,</hi> the 29<hi rend="sup">th</hi> of <hi>May</hi> (<hi>Engl.</hi> ſtile) 1663.</p>
+            <p>By Authority.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Alice Warren,</hi> for <hi>William Garret,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:64495:2"/>
+            <!-- PDF PAGE 112 -->
+            <pb n="1" facs="tcp:64495:2"/>
+            <!-- PDF PAGE 112 -->
+            <head>A Copy of a LETTER Which the <hi>Conde de Ville Flor</hi> Ge<g ref="char:EOLhyphen"/>neral of the <hi>Portugues</hi> Army wrote to his Majeſty of <hi>Portugal,</hi> giving him an account of the Succeſs in the Battel, immediately after the gaining it.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y a Letter of this inſtant, I gave account no your Majeſty how the Enemy roſe from their Camp, retiring themſelves, and I endeavoured to follow them, with an in<g ref="char:EOLhyphen"/>tent
+<pb n="2" facs="tcp:64495:3"/>
+               <!-- PDF PAGE 113 -->to give them Battel, putting my ſelf be<g ref="char:EOLhyphen"/>fore them: I directed my march to <hi>Estre<g ref="char:EOLhyphen"/>mos,</hi> where I overtook them the 8<hi rend="sup">th</hi> current; the Enemie had poſſeſſed a much higher Poſt, which is called the <hi>Canal,</hi> a League from the Town: I reſolved to ſet upon them, gaining the Poſt which they poſſeſ<g ref="char:EOLhyphen"/>ſed; and diſpoſing my ſelf to this, I gave the command of the <hi>Vangard</hi> to <hi>Alphonſo Turtoda de Mendoza,</hi> who was alſo aſſiſted by the General of the Artillery, <hi>D<hi rend="sup">n</hi>. Luis de Meſes,</hi> and the ſecond line to the <hi>Conde de la Torre;</hi> in the right wing of which, he was aſſiſted by the General of the Horſe, <hi>Denis de Mello de Castro,</hi> accompanied with the <hi>Maeſtro de campo General, Pedro Jacques de Megellanez;</hi> and the Leiutenant Generals, <hi>D<hi rend="sup">n</hi>. Juan de Silva, D<hi rend="sup">n</hi>. Manoel de Atayde,</hi> and <hi>Luis de Acoſta,</hi> and the Commiſ<g ref="char:EOLhyphen"/>ſaries General <hi>Juan de Ocrato, Mattias de A<g ref="char:EOLhyphen"/>cunia,</hi> and <hi>Duarte Fernandez Lobo.</hi> In the left wing of the Horſe, the General of it, <hi>Ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>el Freire de Andrada,</hi> with his Leiutenant Ge<g ref="char:EOLhyphen"/>neral, <hi>D<hi rend="sup">n</hi>. Martin de Ribera,</hi> and the Com<g ref="char:EOLhyphen"/>miſſaries General <hi>Gomes Freire,</hi> and <hi>D<hi rend="sup">n</hi>
+                  <pb n="3" facs="tcp:64495:3"/>
+                  <!-- PDF PAGE 113 -->Antonio Maldonado.</hi> And drawing from the firſt line of the <hi>Vangard</hi> the Regi<g ref="char:EOLhyphen"/>ment of the <hi>Maeſtro de Camp Juan Turtado de Mendoſa,</hi> and a Regiment of Engliſh (who in the whole occaſion did wonders) ſupported by ſome ſquadrons of Horſe, I commanded to attaque the Poſts of the Enemie, keeping the men in the ſame order of Battle. The Enemie eaſily extended their Poſts, and reſolved to poſſeſs others higher and harder to come to; and becauſe when the firſt were taken, it was very hot, and the men much wearied with their March, it appeared conveni<g ref="char:EOLhyphen"/>ent not to go forward, without taking ſome reſt, ſo I made a halt; and ſeeing that the Enemy began to retire at the ſame time, I reſolved that the Generals of the Horſe <hi>Denis de Mello,</hi> and <hi>Manoel Freire</hi> ſhould ſet upon the Reregard, which was in a plain, and that the lines of the Army ſhould march in favour of the Horſe, and do that which the occaſion ſhould ſuggeſt to them. The General of Horſe <hi>Denis de Mello</hi> ordered the attaque with all the
+<pb n="4" facs="tcp:64495:4"/>
+               <!-- PDF PAGE 114 -->Horſe, leaving only on the left wing five Squadrons to the diſpoſition of the Com<g ref="char:EOLhyphen"/>miſſary General <hi>Matitas de Acunia,</hi> the Ground being very rough, and the Ene<g ref="char:EOLhyphen"/>mies Horſe making a ſtand on the other ſide. Marching ſo towards the Enemy<g ref="char:punc">▪</g> there began a fight of much diſpute, re<g ref="char:EOLhyphen"/>ceiving and giving of each ſide very hot charges. Our Word was <hi>Our Lady of the Conception,</hi> who aſſiſted us in all parts; for at the ſame time that the Generals of the Horſe aſſaulted the Enemy by the left wing, <hi>Al<g ref="char:EOLhyphen"/>phonſo Tuntado de Mendoſa</hi> with the firſt line of the Vangard, accompanied with the General of the Artillery <hi>D<hi rend="sup">n</hi> Luis de Mendeſes,</hi> got up by the moſt difficult part of the Mountain, to aſſault the Re<g ref="char:EOLhyphen"/>giments of Foot that were upon it, and with obſtinate charges, drove them off from both the heights. After which came forward the <hi>Conde de la Torre</hi> with the five Battaillons; that were under the Com<g ref="char:EOLhyphen"/>miſſary <hi>Mattias de Acunia,</hi> and all of them driving at the diſlodging the Enemy, did, (as was to be hoped of ſuch perſons)
+<pb n="5" facs="tcp:64495:4"/>
+               <!-- PDF PAGE 114 -->The Superiour and Inferiour Officers doing wonders never ſeen before; and in the ſame manner the Souldiers, who with admirable conſtancy perſevered in the ut<g ref="char:EOLhyphen"/>termoſt danger, till they had got the bet<g ref="char:EOLhyphen"/>ter. In all that the Foot did, the <hi>Maeſtro de Campo</hi> General, the <hi>Conte de Shomberg</hi> did aſſiſt with great application and care, diſ<g ref="char:EOLhyphen"/>poſing of what was neceſſaire with the <hi>Serjeant Major di Battaglia Juan de Silva de Soſa,</hi> and with the Lieutenaut Generals <hi>Ant. Tavares de Pina, Pedro Cravero de Cam<g ref="char:EOLhyphen"/>pos,</hi> and <hi>Fernand Martines de Saicas</hi> (who died upon the place) applying preſent re<g ref="char:EOLhyphen"/>medies to all that was neceſſarie.</p>
+            <p>Our ſmall number of Horſe fought ob<g ref="char:EOLhyphen"/>ſtinately with great numbers of the Ene<g ref="char:EOLhyphen"/>mies, which the General <hi>Denis de Mello</hi> endeavoured to break with much valour &amp; addreſs, under the protection, of a Reſerve which was commanded by the Lieutenant General <hi>D<hi rend="sup">n</hi>. Manoel de Atoide,</hi> who with the Commiſſary <hi>Juan de Acrato</hi> did won<g ref="char:EOLhyphen"/>ders, by the firmneſs with which he ſtood, with a great loſs of men on both
+<pb n="6" facs="tcp:64495:5"/>
+               <!-- PDF PAGE 115 -->ſides, as could not but be in ſo hot an oc<g ref="char:EOLhyphen"/>caſion. In fine, after many hours of con<g ref="char:EOLhyphen"/>tinued fighting, the Lines advancing, and now there being no more Foot to help them, but the Regiment of the <hi>Maeſtro de Camp Bernardo de Miranda Henriques,</hi> whom I kept for the laſt remedie, our Horſe be<g ref="char:EOLhyphen"/>ing in great danger, and much ſhattered by the many wounded, after ſo many hours fight, and ſome Souldiers having retired themſelves weary of it, I ſent to ſuccour them by the ſaid Regiment, who with the <hi>Serjeant Major De Battaglia, Diego Gomes de Figuiredo,</hi> whom I had kept by me to apply the ſuccour where there was moſt need of it; ſo that arriving and beginning to give the charge, the Enemie quickly began to be undeceived, after to retire themſelves, and preſently to flye, extending themſelves by that part of the Campagne (as I had done in the reſt) which they had poſſeſſed with their Foot and Artillery, with which the Victorie preſently declared it ſelf on your Majeſties ſide, our Officers and Soldi<g ref="char:EOLhyphen"/>ers having performed in this occaſion moſt
+<pb n="7" facs="tcp:64495:5"/>
+               <!-- PDF PAGE 115 -->valiant actions, and never ſeen be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Here came off hurt on our ſide, the Ge<g ref="char:EOLhyphen"/>neral <hi>Manoel Freire de Andrada,</hi> after he had killed many <hi>Caſtilians,</hi> the M<hi rend="sup">rs</hi>. <hi>de Cam<g ref="char:EOLhyphen"/>po Simon de Sosa, Manoel de Soſa de Caſtro, Diego de Suares de Almeira</hi> was killed.</p>
+            <p>All the Souldiers, and ſome Officers which were made Priſoners at the Sur<g ref="char:EOLhyphen"/>render of <hi>Euora,</hi> and which the Enemy was carrying away in their Armie, got their li<g ref="char:EOLhyphen"/>bertie. The loſs of the Enemie is ſuch, as your Majeſty may ſee by the liſt of the Priſoners of greateſt account, which goes along with this. The number is incredi<g ref="char:EOLhyphen"/>ble, which for the brevitie of this time, I cannot yet know; and beſides the loſs of their Men and Horſe, there were gained alſo 3000. Carts, 8000. Beaſts loaden with Munition, 12 pieces of Canon, and 2 other Pieces, 16000 Oxen, 13 Coaches, many Ovens of Bread; <hi>D<hi rend="sup">n</hi> Juan's</hi> Standard, his <hi>Secretaria,</hi> and all the Furniture of his Chamber, ſo that he, and the <hi>D. de. S<hi rend="sup">n</hi> Ger<g ref="char:EOLhyphen"/>man,</hi> hardly eſcaped with their perſons.</p>
+            <p>
+               <pb n="8" facs="tcp:64495:6"/>
+               <!-- PDF PAGE 116 -->
+Your Majeſty ought to command that thanks be given to all the Officers of the Army, for their valour ſhewed in this oc<g ref="char:EOLhyphen"/>caſion, which was greater than can be re<g ref="char:EOLhyphen"/>preſented to your Majeſty, or that ordina<g ref="char:EOLhyphen"/>rily happens; and let not your Majeſtie think this expreſſion an hyperbole, for it is a pure truth, for having overcome an Army, with it's total rout, diſpoſed into Poſts, which were every one a Fortifica<g ref="char:EOLhyphen"/>tion. Of which Victory I give your Majeſty the Parabien, at whoſe feet I hope to ſee quickly the Monarchie of <hi>Castille</hi> ſurren<g ref="char:EOLhyphen"/>dred up.</p>
+            <closer>
+               <signed>El Conde de Villa Flor.</signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="9" facs="tcp:64495:6"/>
+            <!-- PDF PAGE 116 -->
+            <head>The Liſt of the Priſoners of Note which have hitherto been diſcovered.</head>
+            <list>
+               <item>THe Marquis <hi>de Eliche Conde Duque de St. Lucar.</hi>
+               </item>
+               <item>The <hi>Maeſtre de Campo D<hi rend="sup">n</hi>. Juan Henriques.</hi>
+               </item>
+               <item>The <hi>Maeſtre de Campo Conde Fiaſco.</hi>
+               </item>
+               <item>The <hi>Maeſtre de Campe D<hi rend="sup">n</hi>. Angelo de Guſman,</hi>
+               </item>
+               <item>Son to the Duke <hi>de Medina de las Torres.</hi>
+               </item>
+               <item>The Coronel <hi>Conde de Bull.</hi>
+               </item>
+               <item>The <hi>Maeſtre de Campo Don Eſteuan de An<g ref="char:EOLhyphen"/>gulo.</hi>
+               </item>
+               <item>The <hi>Maeſtre de Campo Conde de Eſcalante.</hi>
+               </item>
+               <item>The Coronel <hi>Conde de Ferezit.</hi>
+               </item>
+               <item>
+                  <hi>Phelippe de Laguet,</hi> Captain of Horſe.</item>
+               <item>The General <hi>Gaſpe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Martines.</hi>
+               </item>
+               <item>The <hi>Conde Ludovico Troſqui,</hi> Captain of the Guards.</item>
+               <item>
+                  <hi>Don Antonio Montenegro,</hi> Commiſſary Ge<g ref="char:EOLhyphen"/>neral of the Horſe.</item>
+               <item>
+                  <hi>Don Juan de Novales,</hi> Commiſſary Gene<g ref="char:EOLhyphen"/>ral of the Forces of <hi>Milan.</hi>
+               </item>
+               <item>The Commiſſary General <hi>Valador.</hi>
+               </item>
+               <item>
+                  <pb n="10" facs="tcp:64495:7"/>
+                  <!-- PDF PAGE 117 -->
+                  <hi>Don Garcia Sarmiento,</hi> Captain of Horſe, and Secretary to the Duke <hi>de St. German.</hi>
+               </item>
+               <item>The Serjeant Major <hi>Don Felippe Roxe</hi>
+               </item>
+               <item>
+                  <hi>Don Alvaro de Guinones.</hi>
+               </item>
+               <item>
+                  <hi>Don Franciſco de Eſcouar,</hi> Captain of the Regiment of <hi>Portugal</hi>
+               </item>
+               <item>
+                  <hi>Don Thomas Puccino.</hi>
+               </item>
+               <item>
+                  <hi>Don Angelo Carafa.</hi>
+               </item>
+               <item>
+                  <hi>Don Aſcanio Dodino.</hi>
+               </item>
+               <item>
+                  <hi>Don Guſtaccio Gramaccio.</hi>
+               </item>
+               <item>
+                  <hi>Don Alvaro Montilo.</hi>
+               </item>
+               <item>
+                  <hi>Don Algelo Coſinano.</hi>
+               </item>
+            </list>
+            <p>13. Captains of Foot. 9. More reformed. 15. Engines. 8. More Reformed. 20. Ser<g ref="char:EOLhyphen"/>jeants. 7. Quartermaſters. 3000. Com<g ref="char:EOLhyphen"/>mon Souldiers. 2500. More, hurt. And there are many more, but for the haſt with which the Courior parts, they cannot be ſpecified; and of the other particulars, there will be a more ample Relation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64495:7"/>
+            <!-- PDF PAGE 117 -->
+            <pb facs="tcp:64495:8" rendition="simple:additions"/>
+            <!-- PDF PAGE 118 -->
+         </div>
+      </body>
+   </text>
+</TEI>
